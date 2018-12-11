@@ -3,3 +3,4 @@ Git is a free software distributed under the GPL.
 third line
 forthline
 this line belong to branch 'master'.
+this line is belong to branch 'dev'.
